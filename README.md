@@ -7,7 +7,7 @@
 ![OpenAI Article Summarizer Gif](https://github.com/CBelloxxi/OpenAI-Article-Summarizer/blob/main/aisummarizergif.gif) 
 
 <h2>Built with & Features:</h2>
-<li>Javasript</li>
+<li>Javascript</li>
 <li>React JS</li>
 <li>TailwindCSS</li>
 <li>Vite</li>
